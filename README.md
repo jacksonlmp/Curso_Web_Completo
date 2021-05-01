@@ -1,5 +1,3 @@
-# Curso Web Completo
-
 <h2>Curso contendo:</h3>
 
 <ul>
